@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="NoteEditor1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NoteEditor/._sqlite-jdbc-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NoteEditor/._gson-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
