@@ -1,0 +1,1141 @@
+Script started on Wed Nov  3 21:38:51 2021
+[?1034hbash-3.2$ UDP_[K-[K_Client[K[K[K[K[K[K[K[K[K[K./UDP_Client 172.19.34.22
+***************************** UDP_Client is running **************************Input the probability from 0 to 1: 0.5
+Input the url you want: test2.html
+Get request message sent. GET test2.html HTTP/1.0
+received the data:HTTP/1.0 200 Document Follows
+Content-Type: text/plain
+Content-Length 663
+
+ the file length is : 663error
+error
+null
+The file :test2.html has been accepted.************************* UDP_Client exit ******************************bash-3.2$ ls
+UDP_Client	UDP_Client.o	test2.html
+UDP_Client.cpp	test1.html	udp-client
+bash-3.2$ ls./UDP_Client 172.19.34.22
+***************************** UDP_Client is running **************************Input the probability from 0 to 1: 0.3
+Input the url you want: auburn.html
+Get request message sent. GET auburn.html HTTP/1.0
+received the data:HTTP/1.0 200 Document Follows
+Content-Type: text/plain
+Content-Length 557111
+
+ the file length is : 557111error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+error
+no error
+error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+error
+no error
+error
+error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+error
+error
+error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+error
+error
+no error
+error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+error
+error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+error
+error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+no error
+error
+no error
+no error
+error
+null
+The file :auburn.html has been accepted.************************* UDP_Client exit ******************************bash-3.2$ ls
+UDP_Client	UDP_Client.o	test1.html	udp-client
+UDP_Client.cpp	auburn.html	test2.html
+bash-3.2$ exit
+exit
+
+Script done on Wed Nov  3 21:40:48 2021
